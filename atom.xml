@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mmp19794.github.io/fly-the-sky/</id>
     <title>Fly the sky</title>
-    <updated>2020-04-11T12:45:13.396Z</updated>
+    <updated>2020-04-11T13:02:00.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mmp19794.github.io/fly-the-sky/"/>
     <link rel="self" href="https://mmp19794.github.io/fly-the-sky/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://mmp19794.github.io/fly-the-sky/images/avatar.png</logo>
     <icon>https://mmp19794.github.io/fly-the-sky/favicon.ico</icon>
     <rights>All rights reserved 2020, Fly the sky</rights>
+    <entry>
+        <title type="html"><![CDATA[几个有意思的SCP和故事]]></title>
+        <id>https://mmp19794.github.io/fly-the-sky/post/ji-ge-you-yi-si-de-scp-he-gu-shi/</id>
+        <link href="https://mmp19794.github.io/fly-the-sky/post/ji-ge-you-yi-si-de-scp-he-gu-shi/">
+        </link>
+        <updated>2020-04-11T12:48:14.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://mmp19794.github.io/fly-the-sky//post-images/1586609330852.png" alt="" loading="lazy"><br>
+猹（就是闰土刺的那个）http://scp-wiki-cn.wikidot.com/scp-cn-143<br>
+鲲（山海经里的）http://scp-wiki-cn.wikidot.com/scp-cn-185<br>
+斯是陋室（刘禹锡的房子）http://scp-wiki-cn.wikidot.com/scp-cn-207<br>
+飞行模式（真正的飞行模式）http://scp-wiki-cn.wikidot.com/scp-cn-206<br>
+Bright（亮亮博士）在圣诞节的奇遇http://scp-wiki-cn.wikidot.com/a-site-19-christmas-carol<br>
+乱入的Clef博士http://scp-wiki-cn.wikidot.com/batman-s-newest-threat</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://mmp19794.github.io/fly-the-sky/post/hello-gridea/</id>
