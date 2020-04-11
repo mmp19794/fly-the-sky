@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mmp19794.github.io/fly-the-sky/</id>
-    <title>Gridea</title>
-    <updated>2020-04-11T12:23:02.361Z</updated>
+    <title>Fly the sky</title>
+    <updated>2020-04-11T12:28:21.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mmp19794.github.io/fly-the-sky/"/>
     <link rel="self" href="https://mmp19794.github.io/fly-the-sky/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>个人小站 偶尔更新</subtitle>
     <logo>https://mmp19794.github.io/fly-the-sky/images/avatar.png</logo>
     <icon>https://mmp19794.github.io/fly-the-sky/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, Fly the sky</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://mmp19794.github.io/fly-the-sky/post/hello-gridea/</id>
